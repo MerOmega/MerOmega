@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Charif</h1>
-<h3 align="center">Fullstack developer, UNLP student</h3>
+<h3 align="center">PHP Fullstack developer, UNLP student</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **Drupal 10**
 
-- 🌱 I’m currently learning **Node.js and Firebase**
+- 🌱 I’m currently learning **Laravel, Symfony and Drupal**
 
 - 📫 How to reach me **insaurralde30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charif insaurralde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charif insaurralde" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/charif-insaurralde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charif insaurralde" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/MerOmega" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="meroemega" height="30" width="40" /></a>
 </p>
 
